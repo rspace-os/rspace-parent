@@ -1,5 +1,6 @@
-## 2.1.2
+## 2.1.2, 2.1.3
   * commons-codec 1.11 -> 1.13
+  * commons-io 2.14.0 -> 2.20.0
 
 ## 2.1.1 
   * spring version 5.3.25 -> 5.3.39 (minor update)
