@@ -5,7 +5,7 @@
 
 	<groupId>com.github.rspace-os</groupId>
 	<artifactId>rspace-parent</artifactId>
-	<version>2.1.4</version>
+	<version>RSDEV-202-export-to-latest-eln-format</version>
 	<packaging>pom</packaging>
 
 	<name>RSpace parent pom</name>
