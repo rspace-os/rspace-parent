@@ -351,7 +351,7 @@
 		<hibernate.version>5.6.5.Final</hibernate.version>
 		<ical4j.version>3.0.11</ical4j.version>
 		<imagej.version>1.47</imagej.version>
-		<jackson.version>2.15.3</jackson.version>
+		<jackson.version>2.20.1</jackson.version>
 		<javassist.version>3.24.0-GA</javassist.version>
 		<javax-mail-api.version>1.6.2</javax-mail-api.version>
 		<javax.validation.version>1.1.0.Final</javax.validation.version>
