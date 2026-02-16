@@ -1,3 +1,8 @@
+## 2.1.4
+ * commons-logging 1.2 -> 1.3.5 
+ * commons-validator 1.7 -> 1.9.0
+ * commons-digester 2.1
+
 ## 2.1.2, 2.1.3
   * commons-codec 1.11 -> 1.13
   * commons-io 2.14.0 -> 2.20.0
