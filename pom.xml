@@ -331,7 +331,7 @@
 		<commons.beanutils.version>1.11.0</commons.beanutils.version>
 		<commons.collections.version>4.5.0</commons.collections.version>
 		<hamcrest.version>1.3</hamcrest.version>
-		<hibernate-search.version>6.6.41.Final</hibernate-search.version>
+		<hibernate-search.version>6.2.41.Final</hibernate-search.version>
 		<hibernate.validator.version>8.0.1.Final</hibernate.validator.version>
 		<hibernate.version>6.2.41.Final</hibernate.version>
 		<ical4j.version>3.0.11</ical4j.version>
