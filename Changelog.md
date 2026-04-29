@@ -1,3 +1,11 @@
+## 3.0.0 2026-04-29
+ * Spring 6 / Hibernate 6 / Jakarta EE migration (RSDEV-444)
+ * spring-security-crypto -> 6.5.9
+ * Hibernate -> 6.4.4 with Hibernate Search 7
+ * Shiro 3.0.0-alpha-1 (Jakarta-compatible)
+ * jakarta.xml.bind-api replaces javax.xml.bind:jaxb-api
+ * commons-lang3 3.18.0, commons-text 1.14.0 added
+
 ## 2.1.4
  * commons-logging 1.2 -> 1.3.5 
  * commons-validator 1.7 -> 1.9.0
