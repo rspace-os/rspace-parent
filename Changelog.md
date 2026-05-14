@@ -2,7 +2,7 @@
  * Spring 6 / Hibernate 6 / Jakarta EE migration (RSDEV-444)
  * spring-security-crypto -> 6.5.9
  * Hibernate -> 6.4.4 with Hibernate Search 7
- * Shiro 3.0.0-alpha-1 (Jakarta-compatible)
+ * Shiro 2.1.0 (Jakarta-compatible)
  * jakarta.xml.bind-api replaces javax.xml.bind:jaxb-api
  * commons-lang3 3.18.0, commons-text 1.14.0 added
 
