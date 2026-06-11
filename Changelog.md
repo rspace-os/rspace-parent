@@ -1,3 +1,6 @@
+## 2.2.0 (11th June, 2026)
+ * Remove ical4j
+
 ## 2.1.4
  * commons-logging 1.2 -> 1.3.5 
  * commons-validator 1.7 -> 1.9.0
