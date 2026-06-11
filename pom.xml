@@ -341,7 +341,6 @@
 		<hibernate-search.version>5.11.10.Final</hibernate-search.version>
 		<hibernate.validator.version>5.3.0.Final</hibernate.validator.version>
 		<hibernate.version>5.6.5.Final</hibernate.version>
-		<ical4j.version>3.0.11</ical4j.version>
 		<imagej.version>1.47</imagej.version>
 		<jackson.version>2.20.0</jackson.version>
 
