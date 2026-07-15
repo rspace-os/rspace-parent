@@ -5,6 +5,7 @@
  * Shiro 2.1.0 (Jakarta-compatible)
  * jakarta.xml.bind-api replaces javax.xml.bind:jaxb-api
  * commons-text 1.14.0 added
+ * **BREAKING** version properties renamed for Jakarta: javax-mail-api.version -> jakarta.mail-api.version, javax.validation.version -> jakarta.validation.version (downstream builds referencing the old names must update)
 
 ## 2.2.0 (11th June, 2026)
  * Remove ical4j (reverted in 2.2.1)
