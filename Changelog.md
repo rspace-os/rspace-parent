@@ -4,7 +4,7 @@
  * Hibernate -> 6.4.4 with Hibernate Search 7
  * Shiro 2.1.0 (Jakarta-compatible)
  * jakarta.xml.bind-api replaces javax.xml.bind:jaxb-api
- * commons-lang3 3.18.0, commons-text 1.14.0 added
+ * commons-text 1.14.0 added
 
 ## 2.2.0 (11th June, 2026)
  * Remove ical4j (reverted in 2.2.1)
