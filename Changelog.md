@@ -1,5 +1,5 @@
 ## 3.0.1 2026-08-03
- * spring version 6.2.15 -> 6.2.19 (minor update, includes fixes for ten CVEs)
+ * spring version 6.2.15 -> 6.2.19
 
 ## 3.0.0 2026-04-29
  * Spring 6 / Hibernate 6 / Jakarta EE migration (RSDEV-444)
