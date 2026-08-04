@@ -1,3 +1,7 @@
+## 3.0.1 2026-08-03
+ * spring version 6.2.15 -> 6.2.19
+ * spring-framework-bom imported in dependencyManagement so downstream builds converge all Spring artifacts on spring.version
+
 ## 3.0.0 2026-04-29
  * Spring 6 / Hibernate 6 / Jakarta EE migration (RSDEV-444)
  * spring-security-crypto -> 6.5.9

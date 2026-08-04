@@ -5,7 +5,7 @@
 
 	<groupId>com.github.rspace-os</groupId>
 	<artifactId>rspace-parent</artifactId>
-	<version>3.0.0</version>
+	<version>3.0.1</version>
 	<packaging>pom</packaging>
 
 	<name>RSpace parent pom</name>
@@ -281,6 +281,13 @@
 				<scope>import</scope>
 				<type>pom</type>
 			</dependency>
+			<dependency>
+				<groupId>org.springframework</groupId>
+				<artifactId>spring-framework-bom</artifactId>
+				<version>${spring.version}</version>
+				<scope>import</scope>
+				<type>pom</type>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 	
@@ -343,7 +350,7 @@
 		<lombok.version>1.18.42</lombok.version>
 
 		<!-- for spring dependent projects -->
-		<spring.version>6.2.15</spring.version>
+		<spring.version>6.2.19</spring.version>
 		<commons.beanutils.version>1.11.0</commons.beanutils.version>
 		<commons.collections.version>4.5.0</commons.collections.version>
 		<hamcrest.version>1.3</hamcrest.version>
