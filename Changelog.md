@@ -1,5 +1,5 @@
 ## 3.1.0 2026-08-20
- * Shiro 2.1.0 -> 3.0.0 (2.x is end of support life; 3.x is jakarta-native, so the `jakarta` classifier must be dropped from shiro artifact references)
+ * Shiro 2.1.0 -> 3.0.0
 
 ## 3.0.1 2026-08-03
  * spring version 6.2.15 -> 6.2.19
