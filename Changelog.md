@@ -1,3 +1,12 @@
+## 3.1.0-junit6-r2-snapshot 2026-08-26
+ * Prerelease of the JUnit 6 line, rebased onto the 3.0.1/3.1.0 dependency changes
+ * Shiro 2.1.0 -> 3.0.0 (RSDEV-1291, from 3.1.0)
+ * Spring 6.2.15 -> 6.2.19 (RSDEV-1276, from 3.0.1)
+ * spring-framework-bom now imported (from 3.0.1)
+ * Retains from r1: JUnit Jupiter 6.1.2, maven-surefire-plugin 3.5.5, and no
+   junit-vintage-engine / junit-jupiter-migrationsupport / junit:junit. Downstream
+   projects that still have JUnit 4 tests must declare a vintage engine themselves.
+
 ## 3.1.0 2026-08-20
  * Shiro 2.1.0 -> 3.0.0
 

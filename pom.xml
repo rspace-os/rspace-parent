@@ -5,7 +5,7 @@
 
 	<groupId>com.github.rspace-os</groupId>
 	<artifactId>rspace-parent</artifactId>
-	<version>3.1.0-junit6-r1-snapshot</version>
+	<version>3.1.0-junit6-r2-snapshot</version>
 	<packaging>pom</packaging>
 
 	<name>RSpace parent pom</name>
