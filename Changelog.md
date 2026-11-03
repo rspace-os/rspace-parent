@@ -1,3 +1,8 @@
+## 3.2.1 2026-11-03
+ * Jackson 2.22.2 -> 2.22.4
+ * Log4j 2.23.1 -> 2.25.5
+ * log4j-bom imported in dependencyManagement so downstream builds converge all Log4j artifacts on log4j.version
+
 ## 3.2.0 2026-08-31
  * JUnit 4 -> 6
 
