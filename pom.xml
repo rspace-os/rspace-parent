@@ -5,7 +5,7 @@
 
 	<groupId>com.github.rspace-os</groupId>
 	<artifactId>rspace-parent</artifactId>
-	<version>3.2.1</version>
+	<version>3.2.2</version>
 	<packaging>pom</packaging>
 
 	<name>RSpace parent pom</name>
@@ -84,7 +84,7 @@
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-enforcer-plugin</artifactId>
-					<version>3.4.1</version>
+					<version>3.7.0</version>
 					<executions>
 						<execution>
 							<id>enforce-dependency-convergence</id>
